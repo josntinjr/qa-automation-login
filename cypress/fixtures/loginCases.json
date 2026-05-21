@@ -1,0 +1,20 @@
+[
+  {
+    "id": "positive",
+    "title": "Test case 1: Positive LogIn",
+    "username": "student",
+    "password": "Password123"
+  },
+  {
+    "id": "negative-username",
+    "title": "Test case 2: Negative username",
+    "username": "incorrectUser",
+    "password": "Password123"
+  },
+  {
+    "id": "negative-password",
+    "title": "Test case 3: Negative password",
+    "username": "student",
+    "password": "incorrectPassword"
+  }
+]
